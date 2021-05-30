@@ -5,9 +5,29 @@
 
   LINUX: 📦
   ------
+  
+   Ubuntu 20.04
        
        sudo snap install android-studio --classic
+   
+   Ubuntu 16.04
+    
+       Step1 : sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
        
+       Step2 : Download this Tar file (951 MB):https://developer.android.com/studio/
+       
+       Step3 : extract the Downloaded file
+       
+       step4 : sudo mv ~/Documents/Downloads/android-studio /usr/local/
+       
+       go to the below path for running Android studio
+       step5 : cd /usr/local/android-studio/bin
+       
+       Every time u shd go to this path /usr/local/android-studio/bin and run the below command
+       step6 : ./studio.sh
+       
+       step5 & step6 are important for running your android studio and this instruction only for Ubuntu 16.04 Xenial
+   
   windows: 📥
   -------
         
