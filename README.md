@@ -33,6 +33,11 @@
         
         https://developer.android.com/studio#downloads
         
+        
+        
+For more Details for installing Android Studio go through the below Link
+------------------------------------------------------------------------
+        https://developer.android.com/studio/
 
   Setup java in Linux  :  ☕
   -------------------
