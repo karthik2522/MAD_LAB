@@ -67,4 +67,17 @@ For more Details for installing Android Studio go through the below Link
                   5. Reopen Command prompt window, and run your java code.
                   
         
-       
+   For Running Programms
+   ---------------------
+            
+            activity_main.xml
+            -----------------
+
+            Step1: For copying activity_main.xml code >> Click on Layout-> select activity_main.xml and copy the code.
+            
+            MainActivity.java
+            
+            step2:For copying MainActivity.java code >>  Click on JAVA Directory -> select Com.example.projectname 
+                            -> select MainActivity.java and copy the code.
+                            
+            Step3:Finnaly Run your code.
